@@ -5,7 +5,7 @@ collection of dot config files for hyprland with a simple install script for a f
 
 You can grab the config files and install packages by hand with this commnad
 ```
-yay -S hyprland-bin kitty waybar-hyprland swww \ 
+yay -S hyprland-bin foot waybar-hyprland swww \ 
 swaylock-effects wofi wlogout mako xdg-desktop-portal-hyprland-git \
 swappy grim slurp thunar polkit-gnome python-requests pamixer \
 pavucontrol brightnessctl bluez bluez-utils blueman \
@@ -19,7 +19,7 @@ Or you can use the attached script "set-hypr" to install everything for you.
 Below is a list of the packages that would be installed
 
 - hyprland-bin: This is the Hyprland compositor
-- kitty: This is the default terminal
+- foot: This is the default terminal
 - waybar-hyprland: This is a fork of waybar with Hyprland workspace support
 - swww: This is used to set a desktop background image
 - swaylock-effects: This allows for the locking of the desktop its a fork that adds some editional visual effects
@@ -31,6 +31,7 @@ Below is a list of the packages that would be installed
 - grim: This is a screenshot tool it grabs images from a Wayland compositor
 - slurp: This helps with screenshots, it selects a region in a Wayland compositor
 - thunar: This is a graphical file manager
+- lf: Terminal file manager, inspired by ranger
 - polkit-gnome: needed to get superuser access on some graphical appliaction
 - python-requests: needed for the weather module script to execute
 - pamixer: This helps with audio settings such as volume
