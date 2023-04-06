@@ -5,7 +5,7 @@ collection of dot config files for hyprland with a simple install script for a f
 
 You can grab the config files and install packages by hand with this commnad
 ```
-yay -S hyprland-bin foot lf waybar-hyprland swww \ 
+yay -S hyprland foot lf waybar-hyprland swww \ 
 swaylock-effects wofi wlogout mako xdg-desktop-portal-hyprland-git \
 swappy grim slurp thunar polkit-gnome python-requests pamixer \
 pavucontrol brightnessctl bluez bluez-utils blueman \
