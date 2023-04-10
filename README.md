@@ -32,7 +32,7 @@ Below is a list of the packages that would be installed
 - slurp: This helps with screenshots, it selects a region in a Wayland compositor
 - thunar: This is a graphical file manager
 - lf: Terminal file manager, inspired by ranger
-- polkit-gnome: needed to get superuser access on some graphical appliaction
+- polkit-gnome: needed to get superuser access on some graphical application
 - python-requests: needed for the weather module script to execute
 - pamixer: This helps with audio settings such as volume
 - pavucontrol: GUI for managing audio and audio devices
